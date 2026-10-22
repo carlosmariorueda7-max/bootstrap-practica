@@ -1,0 +1,15 @@
+# Dependencias (se regeneran con npm install)
+node_modules/
+
+# Archivos de variables de entorno (contraseñas, claves, tokens)
+.env
+
+# Logs
+*.log
+
+# Configuración personal del editor
+.vscode/
+
+# Archivos basura del sistema
+.DS_Store
+Thumbs.db
